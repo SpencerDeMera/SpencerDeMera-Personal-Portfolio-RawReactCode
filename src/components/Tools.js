@@ -43,9 +43,9 @@ export default function Tools() {
                             </div>
                             <div className="toolsList">
                                 <p>MySQL</p>
-                                <p>SQL</p>
-                                <p>PHP</p>
-                                <p>Node.js</p>
+                                <p>Python</p>
+                                <p>Redis</p>
+                                <p>DynamoDB</p>
                             </div>
                         </div>
                         <div className="cats">

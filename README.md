@@ -1,7 +1,7 @@
 # Spencer DeMera's Personal Portfolio Website!
 # ** This Repo Contains the RAW React code (Not Live Compressed Version) **
 
-## Live @ https://spencerdemera.github.io/
+## Live @ 
 
 <img src="src/assets/images/PortfolioSite.png">
 

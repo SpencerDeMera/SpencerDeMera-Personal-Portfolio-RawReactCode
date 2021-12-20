@@ -41,7 +41,7 @@ export default function Footer() {
                 <div className="footerArea">
                     <br />
                     <div className="version-info">
-                        <p>Website Version 1.0.3</p>
+                        <p>Website Version 1.1.0</p>
                     </div>
                     <div className="copyright-info">
                         <p>Copyright &copy; 2021 Spencer DeMera.&nbsp;</p>

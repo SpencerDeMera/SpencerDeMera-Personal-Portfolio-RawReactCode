@@ -19,7 +19,7 @@ export default function Splash() {
                         </div>
                         <div className="accentTitling">
                             <p className="accentText">Computer Science Student</p>
-                            <p className="accentText">From Fullerton, CA</p>
+                            <p className="accentText">From Livermore, CA</p>
                         </div>
                         <div className="resumeDownloadBtn">
                             <div className="cvBtn">

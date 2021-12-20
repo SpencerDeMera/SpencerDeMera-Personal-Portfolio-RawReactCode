@@ -115,6 +115,7 @@ img {
 }
 /* navbar */
 
+/* Splash */
 .sectionContainer {
     position: relative;
     height: 100vh;
@@ -184,7 +185,9 @@ img {
     left: 50%;
     transform: translate(-50%, -50%);
 }
+/* Splash */
 
+/* About */
 .aboutSection {
     display: flex;
     justify-content: center;
@@ -251,7 +254,9 @@ img {
     justify-content: center;
     align-items: center;
 }
+/* About */
 
+/* Projects */
 .projectsSection {
     display: flex;
     justify-content: center;
@@ -430,6 +435,155 @@ img {
     font-weight: 500;
     font-size: 16px;
 }
+/* Projects */
+
+/* Experience */
+.experiencesSection {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background: var(--primaryColor);
+}
+
+.experiencesContainer {
+    width: 100%;
+    max-width: 1500px;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.experiencesTitling {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--textColorDark);
+    margin-top: 25px;
+    margin-left: -25px;
+}
+
+.experiencesTitle {
+    font-size: 25px;
+    font-weight: 800;
+    font-family: 'Nunito', sans-serif;
+}
+
+.experiencesGrids {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 50px;
+    padding: 50px;
+    width: 100%;
+    justify-content: space-evenly;
+    justify-items: center;
+    align-content: space-evenly;
+    align-items: center;
+}
+
+.innerExperiencesContainer {
+    width: 100%;
+    margin: 0 50px;
+}
+
+.experiences {
+    border-radius: 25px;
+    width: 400px;
+    height: 100%;
+}
+
+.experiences div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.experienceInner {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+.experienceIndivTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: var(--textColorDark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 15px;
+}
+
+.experiencesBar {
+    width: 65px;
+    height: 5px;
+    margin: 30px auto 20px;
+    border-radius: 50px;
+    background: var(--secondaryAccent);
+}
+
+.experiencesDescriptText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 1em 3em;
+    color: var(--textColorDark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.stackTitle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--textColorDark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 17px;
+    margin-bottom: -5px;
+}
+
+.stackGrid div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin: 10px;
+}
+
+.stackGrid div p {
+    margin: 10px;
+}
+
+.innerStackGrid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.innerStackGrid-lower {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.stackTools {
+    text-align: center;
+    color: var(--textColorDark);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    margin: 5px 0;
+}
+/* Experience */
 
 .watermarkContainer {
     position: absolute;
@@ -440,6 +594,7 @@ img {
     justify-content: flex-end;
 }
 
+/* Tools */
 .toolsSection {
     display: flex;
     justify-content: center;
@@ -542,6 +697,7 @@ img {
     font-weight: 600;
     font-family: 'Poppins', sans-serif;
 }
+/* Tools */
 
 .footerSection {
     display: flex;

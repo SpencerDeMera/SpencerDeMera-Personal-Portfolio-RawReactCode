@@ -4,6 +4,7 @@ import PageHeader from './components/PageHeader';
 import Splash from './components/Splash';
 import About from './components/About';
 import Projects from './components/Projects';
+import Experience from './components/Experience';
 import Tools from './components/Tools';
 import Footer from './components/Footer';
 import './App.css';
@@ -18,6 +19,8 @@ export default function App() {
         <About />
         <br/>
         <Projects />
+        <br/>
+        <Experience />
         <br/>
         <Tools />
         <br/>

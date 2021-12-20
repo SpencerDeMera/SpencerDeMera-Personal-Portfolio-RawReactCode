@@ -37,6 +37,9 @@ export default function PageHeader() {
                             <a href="#projects" className="navbarLinks" id="projects-page" onClick={showNavBar}>Projects</a>
                         </li>
                         <li className="navbarItem">
+                            <a href="#experiences" className="navbarLinks" id="experience-page" onClick={showNavBar}>Work</a>
+                        </li>
+                        <li className="navbarItem">
                             <a href="#tools" className="navbarLinks" id="tools-page" onClick={showNavBar}>Tools</a>
                         </li>
                         <li className="navbarItem">

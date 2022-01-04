@@ -41,10 +41,10 @@ export default function Footer() {
                 <div className="footerArea">
                     <br />
                     <div className="version-info">
-                        <p>Website Version 1.1.0</p>
+                        <p>Website Version 2.1.2</p>
                     </div>
                     <div className="copyright-info">
-                        <p>Copyright &copy; 2021 Spencer DeMera.&nbsp;</p>
+                        <p>Copyright &copy; 2022 Spencer DeMera.&nbsp;</p>
                         <p>All Rights Reserved.</p>
                     </div>
                     <br />

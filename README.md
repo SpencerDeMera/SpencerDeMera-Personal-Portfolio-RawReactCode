@@ -15,6 +15,8 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
     * Provides a brief personal overview of Spencer and his life as a student.
 * Projects
     * Provides a showcase of Spencer's recent and most applicable projects and applications.
+* Experience
+    * Provides a brief showcase and explanation of Spencer's prior work experiences.
 * Tools
     * Lists the various tools and technologies that Spencer has gained familiarity with through his various projects
         * Engineering
@@ -32,7 +34,7 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
 * Navigation Bar
     * Navbar is fully repsonsive and has both desktop and mobile modes for ease of use on a range of devices and displays.
 * Smooth Scrolling
-    * Scrooling funtion to allow for easy access to any given section of the page from the navbar or mobile navbar menu.
+    * Scrolling function to allow for easy access to any given section of the page from the navbar or mobile navbar menu.
 * Footer
     * Provides easy access to the contact information, copyright information, as well as current development status.
 
@@ -41,14 +43,13 @@ This personal portfolio website is designed to showcase Spencer's skills, knowle
 ## Future
 
 * Add more/to current projects as they are updated or new ones are created.
-* Modify the formatting of project containers so that they are uniform in height while being responsive.
 * Add additional sections of page such as a possible secondary website for a personal photography portfolio.
 
 - - - -
 
 # Technologies Used
 
-* React.js
+* React
 * Javascript
 * HTML5
 * CSS3
